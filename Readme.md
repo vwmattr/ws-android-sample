@@ -7,7 +7,7 @@ To run a sample websocket server:
 
 To test out the app:
 
-1. Modify the myIp variable in MainActivity to hold the IP or hostname of the computer where your test websocket server is running.
+1. Modify the `myIp` variable in MainActivity to hold the IP or hostname of the computer where your test websocket server is running.
 1. Run the app.
 1. Click "Send".
 1. At this point you have an open connection and you can go to your terminal running wscat and start entering messages and you'll see them toasted on the Android.
